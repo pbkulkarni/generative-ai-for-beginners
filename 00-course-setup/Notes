@@ -1,0 +1,5 @@
+# These notes are for myself, highlighting and noting some issues that I came across while doing these activities
+
+
+The "pip install python-dotenv" command needs to be run in Windows CLI/CMD
+If this pip install is run in Python framework, it gives syntaxerror
